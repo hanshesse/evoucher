@@ -4,7 +4,7 @@
 		module="evoucher_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20150222130016"
+		publication="20150223220406"
 	>
 		<description>
 		evoucher
@@ -32,5 +32,11 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.5" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.5" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="io.spray" name="spray-can_2.11" rev="1.3.2" conf="compile->default(compile)"/>
+		<dependency org="io.spray" name="spray-routing_2.11" rev="1.3.2" conf="compile->default(compile)"/>
+		<dependency org="io.spray" name="spray-testkit_2.11" rev="1.3.2" conf="test->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka-actor_2.11" rev="2.3.6" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka-testkit_2.11" rev="2.3.6" conf="test->default(compile)"/>
+		<dependency org="org.scala-lang.modules" name="scala-xml_2.11" rev="1.0.3" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

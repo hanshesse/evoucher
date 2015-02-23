@@ -611,9 +611,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.5!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.5!apply-macro.jar
-[debug] :: resolution report :: resolve 1540ms :: artifacts dl 76ms
+[debug] :: resolution report :: resolve 1794ms :: artifacts dl 83ms
 [debug] 	report for default#evoucher$sbt_2.11;1.0 default produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sbt_2.11-default.xml
-[debug] 	resolve done (1540ms resolve - 76ms download)
+[debug] 	resolve done (1794ms resolve - 83ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#evoucher$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -955,6 +955,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.5!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.5!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.5!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 477ms :: artifacts dl 110ms
+[debug] :: resolution report :: resolve 272ms :: artifacts dl 38ms
 [debug] 	report for default#evoucher$sources_2.11;1.0 default produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_2.11-default.xml
-[debug] 	resolve done (477ms resolve - 110ms download)
+[debug] 	resolve done (272ms resolve - 38ms download)

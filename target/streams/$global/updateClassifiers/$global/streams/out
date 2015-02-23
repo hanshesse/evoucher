@@ -6,7 +6,7 @@
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47b3f542
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d243ecf
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.5
 [debug] 	local: revision in cache: org.scala-lang#scala-library;2.11.5
 [debug] 	found org.scala-lang#scala-library;2.11.5 in sbt-chain
@@ -14,6 +14,123 @@
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->default(compile)]
+[info] Resolving io.spray#spray-can_2.11;1.3.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27b6c151
+[debug] sbt-chain: module revision found in cache: io.spray#spray-can_2.11;1.3.2
+[debug] 	local: revision in cache: io.spray#spray-can_2.11;1.3.2
+[debug] 	found io.spray#spray-can_2.11;1.3.2 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->default(compile)]
+[info] Resolving io.spray#spray-io_2.11;1.3.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@432fb4b2
+[debug] sbt-chain: module revision found in cache: io.spray#spray-io_2.11;1.3.2
+[debug] 	local: revision in cache: io.spray#spray-io_2.11;1.3.2
+[debug] 	found io.spray#spray-io_2.11;1.3.2 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->default(compile)]
+[info] Resolving io.spray#spray-util_2.11;1.3.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@330092e9
+[debug] sbt-chain: module revision found in cache: io.spray#spray-util_2.11;1.3.2
+[debug] 	local: revision in cache: io.spray#spray-util_2.11;1.3.2
+[debug] 	found io.spray#spray-util_2.11;1.3.2 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->default(compile)]
+[info] Resolving io.spray#spray-http_2.11;1.3.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fef829b
+[debug] sbt-chain: module revision found in cache: io.spray#spray-http_2.11;1.3.2
+[debug] 	local: revision in cache: io.spray#spray-http_2.11;1.3.2
+[debug] 	found io.spray#spray-http_2.11;1.3.2 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->default(compile)]
+[info] Resolving org.parboiled#parboiled-scala_2.11;1.1.6 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26176d87
+[debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-scala_2.11;1.1.6
+[debug] 	local: revision in cache: org.parboiled#parboiled-scala_2.11;1.1.6
+[debug] 	found org.parboiled#parboiled-scala_2.11;1.1.6 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->default(compile)]
+[info] Resolving org.parboiled#parboiled-core;1.1.6 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30428f76
+[debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-core;1.1.6
+[debug] 	local: revision in cache: org.parboiled#parboiled-core;1.1.6
+[debug] 	found org.parboiled#parboiled-core;1.1.6 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->default(compile)]
+[info] Resolving io.spray#spray-routing_2.11;1.3.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b8c9e73
+[debug] sbt-chain: module revision found in cache: io.spray#spray-routing_2.11;1.3.2
+[debug] 	local: revision in cache: io.spray#spray-routing_2.11;1.3.2
+[debug] 	found io.spray#spray-routing_2.11;1.3.2 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->default(compile)]
+[info] Resolving io.spray#spray-httpx_2.11;1.3.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@535f9868
+[debug] sbt-chain: module revision found in cache: io.spray#spray-httpx_2.11;1.3.2
+[debug] 	local: revision in cache: io.spray#spray-httpx_2.11;1.3.2
+[debug] 	found io.spray#spray-httpx_2.11;1.3.2 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->default(compile)]
+[info] Resolving org.jvnet.mimepull#mimepull;1.9.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@325a9be2
+[debug] sbt-chain: module revision found in cache: org.jvnet.mimepull#mimepull;1.9.4
+[debug] 	local: revision in cache: org.jvnet.mimepull#mimepull;1.9.4
+[debug] 	found org.jvnet.mimepull#mimepull;1.9.4 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->default(compile)]
+[info] Resolving com.chuusai#shapeless_2.11;1.2.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@560fd57d
+[debug] sbt-chain: module revision found in cache: com.chuusai#shapeless_2.11;1.2.4
+[debug] 	local: revision in cache: com.chuusai#shapeless_2.11;1.2.4
+[debug] 	found com.chuusai#shapeless_2.11;1.2.4 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->default(compile)]
+[info] Resolving com.typesafe.akka#akka-actor_2.11;2.3.6 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c73f7fd
+[debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.3.6
+[debug] 	local: revision in cache: com.typesafe.akka#akka-actor_2.11;2.3.6
+[debug] 	found com.typesafe.akka#akka-actor_2.11;2.3.6 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
+[info] Resolving com.typesafe#config;1.2.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63f78538
+[debug] sbt-chain: module revision found in cache: com.typesafe#config;1.2.1
+[debug] 	local: revision in cache: com.typesafe#config;1.2.1
+[debug] 	found com.typesafe#config;1.2.1 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->default(compile)]
+[info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.3 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@234d5ffa
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.3
+[debug] 	local: revision in cache: org.scala-lang.modules#scala-xml_2.11;1.0.3
+[debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.3 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->master]
 [debug] resolving dependencies for configuration 'runtime'
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [runtime]
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [compile]
@@ -21,10 +138,114 @@
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->master]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->default(compile)]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->master]
 [debug] resolving dependencies for configuration 'test'
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [test]
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [runtime]
@@ -33,14 +254,369 @@
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->master]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->default(compile)]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->master]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [test->default(compile)]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [test->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [test->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-testkit_2.11;1.3.2 [test->default(compile)]
+[info] Resolving io.spray#spray-testkit_2.11;1.3.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19b56307
+[debug] sbt-chain: module revision found in cache: io.spray#spray-testkit_2.11;1.3.2
+[debug] 	local: revision in cache: io.spray#spray-testkit_2.11;1.3.2
+[debug] 	found io.spray#spray-testkit_2.11;1.3.2 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-testkit_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-testkit_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-testkit_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.6 [test->default(compile)]
+[info] Resolving com.typesafe.akka#akka-testkit_2.11;2.3.6 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72c2ea35
+[debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-testkit_2.11;2.3.6
+[debug] 	local: revision in cache: com.typesafe.akka#akka-testkit_2.11;2.3.6
+[debug] 	found com.typesafe.akka#akka-testkit_2.11;2.3.6 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.6 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.3.13 [test->default(compile)]
+[info] Resolving org.specs2#specs2_2.11;2.3.13 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e4704a3
+[debug] sbt-chain: module revision found in cache: org.specs2#specs2_2.11;2.3.13
+[debug] 	local: revision in cache: org.specs2#specs2_2.11;2.3.13
+[debug] 	found org.specs2#specs2_2.11;2.3.13 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.3.13 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.3.13 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.3.13 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.1 [test->default(compile)]
+[info] Resolving org.scala-lang#scala-compiler;2.11.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29772c98
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.1
+[debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.11.1
+[debug] 	found org.scala-lang#scala-compiler;2.11.1 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->default(compile)]
+[info] Resolving org.scala-lang#scala-reflect;2.11.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bd36d4c
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.1
+[debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.11.1
+[debug] 	found org.scala-lang#scala-reflect;2.11.1 in sbt-chain
+[debug] 	[2.11.1] org.scala-lang#scala-reflect;2.11.1
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->default(compile)]
+[info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@692e45cb
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1
+[debug] 	local: revision in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1
+[debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->default(compile)]
+[info] Resolving junit#junit;4.11 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f1074b4
+[debug] sbt-chain: module revision found in cache: junit#junit;4.11
+[debug] 	local: revision in cache: junit#junit;4.11
+[debug] 	found junit#junit;4.11 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->default(compile)]
+[info] Resolving org.hamcrest#hamcrest-core;1.3 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@640805d7
+[debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.3
+[debug] 	local: revision in cache: org.hamcrest#hamcrest-core;1.3
+[debug] 	found org.hamcrest#hamcrest-core;1.3 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->default(compile)]
+[info] Resolving org.pegdown#pegdown;1.2.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3034705c
+[debug] sbt-chain: module revision found in cache: org.pegdown#pegdown;1.2.1
+[debug] 	local: revision in cache: org.pegdown#pegdown;1.2.1
+[debug] 	found org.pegdown#pegdown;1.2.1 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->default(compile)]
+[info] Resolving org.parboiled#parboiled-java;1.1.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e6d1ceb
+[debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-java;1.1.4
+[debug] 	local: revision in cache: org.parboiled#parboiled-java;1.1.4
+[debug] 	found org.parboiled#parboiled-java;1.1.4 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->default(compile)]
+[info] Resolving org.ow2.asm#asm;4.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ef1d1da
+[debug] sbt-chain: module revision found in cache: org.ow2.asm#asm;4.1
+[debug] 	local: revision in cache: org.ow2.asm#asm;4.1
+[debug] 	found org.ow2.asm#asm;4.1 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->default(compile)]
+[info] Resolving org.ow2.asm#asm-tree;4.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c4358e
+[debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-tree;4.1
+[debug] 	local: revision in cache: org.ow2.asm#asm-tree;4.1
+[debug] 	found org.ow2.asm#asm-tree;4.1 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->default(compile)]
+[info] Resolving org.ow2.asm#asm-analysis;4.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e5374e
+[debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-analysis;4.1
+[debug] 	local: revision in cache: org.ow2.asm#asm-analysis;4.1
+[debug] 	found org.ow2.asm#asm-analysis;4.1 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->default(compile)]
+[info] Resolving org.ow2.asm#asm-util;4.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6af2a299
+[debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-util;4.1
+[debug] 	local: revision in cache: org.ow2.asm#asm-util;4.1
+[debug] 	found org.ow2.asm#asm-util;4.1 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->default(compile)]
+[info] Resolving org.scalacheck#scalacheck_2.11;1.11.3 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@608519de
+[debug] sbt-chain: module revision found in cache: org.scalacheck#scalacheck_2.11;1.11.3
+[debug] 	local: revision in cache: org.scalacheck#scalacheck_2.11;1.11.3
+[debug] 	found org.scalacheck#scalacheck_2.11;1.11.3 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->default(compile)]
+[info] Resolving org.scala-sbt#test-interface;1.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15e054ce
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#test-interface;1.0
+[debug] 	local: revision in cache: org.scala-sbt#test-interface;1.0
+[debug] 	found org.scala-sbt#test-interface;1.0 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->default(compile)]
+[info] Resolving org.mockito#mockito-core;1.9.5 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2bae4cd9
+[debug] sbt-chain: module revision found in cache: org.mockito#mockito-core;1.9.5
+[debug] 	local: revision in cache: org.mockito#mockito-core;1.9.5
+[debug] 	found org.mockito#mockito-core;1.9.5 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->default(compile)]
+[info] Resolving org.objenesis#objenesis;1.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64610c73
+[debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;1.0
+[debug] 	local: revision in cache: org.objenesis#objenesis;1.0
+[debug] 	found org.objenesis#objenesis;1.0 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->default(compile)]
+[info] Resolving org.specs2#classycle;1.4.3 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e0848c4
+[debug] sbt-chain: module revision found in cache: org.specs2#classycle;1.4.3
+[debug] 	local: revision in cache: org.specs2#classycle;1.4.3
+[debug] 	found org.specs2#classycle;1.4.3 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.0.6 [test->default(compile)]
+[info] Resolving org.scalaz#scalaz-core_2.11;7.0.6 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1094d8ba
+[debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-core_2.11;7.0.6
+[debug] 	local: revision in cache: org.scalaz#scalaz-core_2.11;7.0.6
+[debug] 	found org.scalaz#scalaz-core_2.11;7.0.6 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.0.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.0.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.0.6 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.0.6 [test->default(compile)]
+[info] Resolving org.scalaz#scalaz-concurrent_2.11;7.0.6 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a9060fd
+[debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-concurrent_2.11;7.0.6
+[debug] 	local: revision in cache: org.scalaz#scalaz-concurrent_2.11;7.0.6
+[debug] 	found org.scalaz#scalaz-concurrent_2.11;7.0.6 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.0.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.0.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.0.6 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.0.6 [test->default(compile)]
+[info] Resolving org.scalaz#scalaz-effect_2.11;7.0.6 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f9fe6d5
+[debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-effect_2.11;7.0.6
+[debug] 	local: revision in cache: org.scalaz#scalaz-effect_2.11;7.0.6
+[debug] 	found org.scalaz#scalaz-effect_2.11;7.0.6 in sbt-chain
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.0.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.0.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.0.6 [test->master]
 [debug] resolving dependencies for configuration 'provided'
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [provided]
 [debug] resolving dependencies for configuration 'optional'
@@ -52,12 +628,116 @@
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->master]
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [optional]
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [provided]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile-internal->default(compile)]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile-internal->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile-internal->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile-internal->master]
 [debug] resolving dependencies for configuration 'runtime-internal'
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [runtime-internal]
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [runtime]
@@ -66,15 +746,171 @@
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->master]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->default(compile)]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->master]
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [optional]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime-internal->default(compile)]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime-internal->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime-internal->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime-internal->master]
 [debug] resolving dependencies for configuration 'test-internal'
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [test-internal]
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [test]
@@ -84,20 +920,404 @@
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [compile->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [compile->master]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->default(compile)]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [runtime->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [runtime->master]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [test->default(compile)]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [test->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [test->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-testkit_2.11;1.3.2 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-testkit_2.11;1.3.2 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-testkit_2.11;1.3.2 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-testkit_2.11;1.3.2 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.6 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.6 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.3.13 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.3.13 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.3.13 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.3.13 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.1 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->junit#junit;4.11 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.0.6 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.0.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.0.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.0.6 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.0.6 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.0.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.0.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.0.6 [test->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.0.6 [test->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.0.6 [test->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.0.6 [test->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.0.6 [test->master]
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [optional]
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [provided]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [test-internal->default(compile)]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [test-internal->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [test-internal->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-can_2.11;1.3.2 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-io_2.11;1.3.2 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-util_2.11;1.3.2 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-http_2.11;1.3.2 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-scala_2.11;1.1.6 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-core;1.1.6 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-routing_2.11;1.3.2 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-httpx_2.11;1.3.2 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.jvnet.mimepull#mimepull;1.9.4 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.chuusai#shapeless_2.11;1.2.4 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.6 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe#config;1.2.1 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-testkit_2.11;1.3.2 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-testkit_2.11;1.3.2 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-testkit_2.11;1.3.2 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->io.spray#spray-testkit_2.11;1.3.2 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.6 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.6 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.6 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->com.typesafe.akka#akka-testkit_2.11;2.3.6 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.3.13 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.3.13 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.3.13 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#specs2_2.11;2.3.13 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.1 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.1 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.1 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.1 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->junit#junit;4.11 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->junit#junit;4.11 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->junit#junit;4.11 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->junit#junit;4.11 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.pegdown#pegdown;1.2.1 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.parboiled#parboiled-java;1.1.4 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm;4.1 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-tree;4.1 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-analysis;4.1 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.ow2.asm#asm-util;4.1 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalacheck#scalacheck_2.11;1.11.3 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-sbt#test-interface;1.0 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.mockito#mockito-core;1.9.5 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.objenesis#objenesis;1.0 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.specs2#classycle;1.4.3 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.0.6 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.0.6 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.0.6 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-core_2.11;7.0.6 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.0.6 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.0.6 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.0.6 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.0.6 [test-internal->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.0.6 [test-internal->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.0.6 [test-internal->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.0.6 [test-internal->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.0.6 [test-internal->master]
 [debug] resolving dependencies for configuration 'plugin'
 [debug] == resolving dependencies for default#evoucher$sources_javadoc_2.11;1.0 [plugin]
 [debug] resolving dependencies for configuration 'sources'
@@ -112,6 +1332,10 @@
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [scala-tool->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [scala-tool->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.5 [scala-tool->master]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->default(compile)]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->runtime]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->compile]
+[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->master]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.5 [scala-tool->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.11.5 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.11.5 {scala-tool=[default(compile)]}
@@ -131,15 +1355,6 @@
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.5 [scala-tool->runtime]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.5 [scala-tool->compile]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.5 [scala-tool->master]
-[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->default(compile)]
-[info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.3 ...
-[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.11;1.0.3 {scala-tool=[default(compile)]}
-[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.3
-[debug] 	local: revision in cache: org.scala-lang.modules#scala-xml_2.11;1.0.3
-[debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.3 in sbt-chain
-[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->runtime]
-[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->compile]
-[debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->master]
 [debug] == resolving dependencies default#evoucher$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 [scala-tool->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 {scala-tool=[default(compile)]}
@@ -163,28 +1378,231 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.5!scala-library.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.5!scala-library.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.5!scala-library.jar(doc)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.5!scala-compiler.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.5!scala-compiler.jar(doc)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.5!scala-reflect.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.5!scala-reflect.jar(doc)
+[debug] 	[NOT REQUIRED] io.spray#spray-can_2.11;1.3.2!spray-can_2.11.jar
+[debug] 	[NOT REQUIRED] io.spray#spray-can_2.11;1.3.2!spray-can_2.11.jar(src)
+[debug] 	[NOT REQUIRED] io.spray#spray-can_2.11;1.3.2!spray-can_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] io.spray#spray-io_2.11;1.3.2!spray-io_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] io.spray#spray-io_2.11;1.3.2!spray-io_2.11.jar
+[debug] 	[NOT REQUIRED] io.spray#spray-io_2.11;1.3.2!spray-io_2.11.jar(src)
+[debug] 	[NOT REQUIRED] io.spray#spray-util_2.11;1.3.2!spray-util_2.11.jar
+[debug] 	[NOT REQUIRED] io.spray#spray-util_2.11;1.3.2!spray-util_2.11.jar(src)
+[debug] 	[NOT REQUIRED] io.spray#spray-util_2.11;1.3.2!spray-util_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] io.spray#spray-http_2.11;1.3.2!spray-http_2.11.jar(src)
+[debug] 	[NOT REQUIRED] io.spray#spray-http_2.11;1.3.2!spray-http_2.11.jar
+[debug] 		tried /home/hans/.ivy2/local/io.spray/spray-http_2.11/1.3.2/docs/spray-http_2.11-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/io/spray/spray-http_2.11/1.3.2/spray-http_2.11-1.3.2-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/io/spray/spray-http_2.11/1.3.2/spray-http_2.11-1.3.2-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-http_2.11/1.3.2/spray-http_2.11-1.3.2-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-http_2.11/1.3.2/spray-http_2.11-1.3.2-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/spray/spray-http_2.11/1.3.2/spray-http_2.11-1.3.2-javadoc.jar
+[info] 	[SUCCESSFUL ] io.spray#spray-http_2.11;1.3.2!spray-http_2.11.jar(doc) (14607ms)
+[debug] 		tried /home/hans/.ivy2/local/org.parboiled/parboiled-scala_2.11/1.1.6/jars/parboiled-scala_2.11.jar
+[debug] 		tried /home/hans/.ivy2/local/org.parboiled/parboiled-scala_2.11/1.1.6/srcs/parboiled-scala_2.11-sources.jar
+[debug] 		tried /home/hans/.ivy2/local/org.parboiled/parboiled-scala_2.11/1.1.6/docs/parboiled-scala_2.11-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6.jar
+[info] downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6.jar
+[info] 	[SUCCESSFUL ] org.parboiled#parboiled-scala_2.11;1.1.6!parboiled-scala_2.11.jar (3052ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6-sources.jar
+[info] 	[SUCCESSFUL ] org.parboiled#parboiled-scala_2.11;1.1.6!parboiled-scala_2.11.jar(src) (1836ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/parboiled/parboiled-scala_2.11/1.1.6/parboiled-scala_2.11-1.1.6-javadoc.jar
+[info] 	[SUCCESSFUL ] org.parboiled#parboiled-scala_2.11;1.1.6!parboiled-scala_2.11.jar(doc) (5109ms)
+[debug] 		tried /home/hans/.ivy2/local/org.parboiled/parboiled-core/1.1.6/srcs/parboiled-core-sources.jar
+[debug] 		tried /home/hans/.ivy2/local/org.parboiled/parboiled-core/1.1.6/jars/parboiled-core.jar
+[debug] 		tried /home/hans/.ivy2/local/org.parboiled/parboiled-core/1.1.6/docs/parboiled-core-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6-sources.jar
+[info] 	[SUCCESSFUL ] org.parboiled#parboiled-core;1.1.6!parboiled-core.jar(src) (2145ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6.jar
+[info] downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6.jar
+[info] 	[SUCCESSFUL ] org.parboiled#parboiled-core;1.1.6!parboiled-core.jar (2501ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/parboiled/parboiled-core/1.1.6/parboiled-core-1.1.6-javadoc.jar
+[info] 	[SUCCESSFUL ] org.parboiled#parboiled-core;1.1.6!parboiled-core.jar(doc) (4483ms)
+[debug] 		tried /home/hans/.ivy2/local/io.spray/spray-routing_2.11/1.3.2/docs/spray-routing_2.11-javadoc.jar
+[debug] 		tried /home/hans/.ivy2/local/io.spray/spray-routing_2.11/1.3.2/jars/spray-routing_2.11.jar
+[debug] 		tried /home/hans/.ivy2/local/io.spray/spray-routing_2.11/1.3.2/srcs/spray-routing_2.11-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2-javadoc.jar
+[info] 	[SUCCESSFUL ] io.spray#spray-routing_2.11;1.3.2!spray-routing_2.11.jar(doc) (7631ms)
+[debug] 		tried http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2.jar
+[info] downloading http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2.jar
+[info] 	[SUCCESSFUL ] io.spray#spray-routing_2.11;1.3.2!spray-routing_2.11.jar (6147ms)
+[debug] 		tried http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2-sources.jar
+[info] downloading http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/spray/spray-routing_2.11/1.3.2/spray-routing_2.11-1.3.2-sources.jar
+[info] 	[SUCCESSFUL ] io.spray#spray-routing_2.11;1.3.2!spray-routing_2.11.jar(src) (1733ms)
+[debug] 		tried /home/hans/.ivy2/local/io.spray/spray-httpx_2.11/1.3.2/srcs/spray-httpx_2.11-sources.jar
+[debug] 		tried /home/hans/.ivy2/local/io.spray/spray-httpx_2.11/1.3.2/jars/spray-httpx_2.11.jar
+[debug] 		tried /home/hans/.ivy2/local/io.spray/spray-httpx_2.11/1.3.2/docs/spray-httpx_2.11-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2-sources.jar
+[info] downloading http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2-sources.jar
+[info] 	[SUCCESSFUL ] io.spray#spray-httpx_2.11;1.3.2!spray-httpx_2.11.jar(src) (1534ms)
+[debug] 		tried http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2.jar
+[info] downloading http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2.jar
+[info] 	[SUCCESSFUL ] io.spray#spray-httpx_2.11;1.3.2!spray-httpx_2.11.jar (3019ms)
+[debug] 		tried http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/spray/spray-httpx_2.11/1.3.2/spray-httpx_2.11-1.3.2-javadoc.jar
+[info] 	[SUCCESSFUL ] io.spray#spray-httpx_2.11;1.3.2!spray-httpx_2.11.jar(doc) (4560ms)
+[debug] 	[NOT REQUIRED] org.jvnet.mimepull#mimepull;1.9.4!mimepull.jar
+[debug] 		tried /home/hans/.ivy2/local/org.jvnet.mimepull/mimepull/1.9.4/docs/mimepull-javadoc.jar
+[debug] 		tried /home/hans/.ivy2/local/org.jvnet.mimepull/mimepull/1.9.4/srcs/mimepull-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/jvnet/mimepull/mimepull/1.9.4/mimepull-1.9.4-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/jvnet/mimepull/mimepull/1.9.4/mimepull-1.9.4-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/jvnet/mimepull/mimepull/1.9.4/mimepull-1.9.4-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/jvnet/mimepull/mimepull/1.9.4/mimepull-1.9.4-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/jvnet/mimepull/mimepull/1.9.4/mimepull-1.9.4-javadoc.jar
+[info] 	[SUCCESSFUL ] org.jvnet.mimepull#mimepull;1.9.4!mimepull.jar(doc) (1906ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/jvnet/mimepull/mimepull/1.9.4/mimepull-1.9.4-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/jvnet/mimepull/mimepull/1.9.4/mimepull-1.9.4-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/jvnet/mimepull/mimepull/1.9.4/mimepull-1.9.4-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/jvnet/mimepull/mimepull/1.9.4/mimepull-1.9.4-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/jvnet/mimepull/mimepull/1.9.4/mimepull-1.9.4-sources.jar
+[info] 	[SUCCESSFUL ] org.jvnet.mimepull#mimepull;1.9.4!mimepull.jar(src) (3789ms)
+[debug] 		tried /home/hans/.ivy2/local/com.chuusai/shapeless_2.11/1.2.4/docs/shapeless_2.11-javadoc.jar
+[debug] 	[NOT REQUIRED] com.chuusai#shapeless_2.11;1.2.4!shapeless_2.11.jar
+[debug] 		tried /home/hans/.ivy2/local/com.chuusai/shapeless_2.11/1.2.4/srcs/shapeless_2.11-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/com/chuusai/shapeless_2.11/1.2.4/shapeless_2.11-1.2.4-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/com/chuusai/shapeless_2.11/1.2.4/shapeless_2.11-1.2.4-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/chuusai/shapeless_2.11/1.2.4/shapeless_2.11-1.2.4-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/chuusai/shapeless_2.11/1.2.4/shapeless_2.11-1.2.4-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/chuusai/shapeless_2.11/1.2.4/shapeless_2.11-1.2.4-javadoc.jar
+[info] 	[SUCCESSFUL ] com.chuusai#shapeless_2.11;1.2.4!shapeless_2.11.jar(doc) (7143ms)
+[debug] 		tried http://repo1.maven.org/maven2/com/chuusai/shapeless_2.11/1.2.4/shapeless_2.11-1.2.4-sources.jar
+[info] downloading http://repo1.maven.org/maven2/com/chuusai/shapeless_2.11/1.2.4/shapeless_2.11-1.2.4-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/chuusai/shapeless_2.11/1.2.4/shapeless_2.11-1.2.4-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/chuusai/shapeless_2.11/1.2.4/shapeless_2.11-1.2.4-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/chuusai/shapeless_2.11/1.2.4/shapeless_2.11-1.2.4-sources.jar
+[info] 	[SUCCESSFUL ] com.chuusai#shapeless_2.11;1.2.4!shapeless_2.11.jar(src) (1663ms)
+[debug] 		tried /home/hans/.ivy2/local/com.typesafe.akka/akka-actor_2.11/2.3.6/docs/akka-actor_2.11-javadoc.jar
+[debug] 		tried /home/hans/.ivy2/local/com.typesafe.akka/akka-actor_2.11/2.3.6/srcs/akka-actor_2.11-sources.jar
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.11;2.3.6!akka-actor_2.11.jar
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.6/akka-actor_2.11-2.3.6-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.6/akka-actor_2.11-2.3.6-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.6/akka-actor_2.11-2.3.6-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.6/akka-actor_2.11-2.3.6-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.6/akka-actor_2.11-2.3.6-javadoc.jar
+[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.3.6!akka-actor_2.11.jar(doc) (11633ms)
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.6/akka-actor_2.11-2.3.6-sources.jar
+[info] downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.6/akka-actor_2.11-2.3.6-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.6/akka-actor_2.11-2.3.6-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.6/akka-actor_2.11-2.3.6-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.6/akka-actor_2.11-2.3.6-sources.jar
+[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.3.6!akka-actor_2.11.jar(src) (2503ms)
+[debug] 		tried /home/hans/.ivy2/local/com.typesafe/config/1.2.1/jars/config.jar
+[debug] 		tried /home/hans/.ivy2/local/com.typesafe/config/1.2.1/docs/config-javadoc.jar
+[debug] 		tried /home/hans/.ivy2/local/com.typesafe/config/1.2.1/srcs/config-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar
+[info] downloading http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.jar
+[info] 	[SUCCESSFUL ] com.typesafe#config;1.2.1!config.jar (2475ms)
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar
+[info] 	[SUCCESSFUL ] com.typesafe#config;1.2.1!config.jar(doc) (2020ms)
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-sources.jar
+[info] downloading http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-sources.jar
+[info] 	[SUCCESSFUL ] com.typesafe#config;1.2.1!config.jar(src) (1735ms)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(doc)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(doc)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(src)
-[debug] 	[NOT REQUIRED] jline#jline;2.12!jline.jar(doc)
-[debug] 	[NOT REQUIRED] jline#jline;2.12!jline.jar(src)
-[debug] :: resolution report :: resolve 415ms :: artifacts dl 28ms
-[debug] 	report for default#evoucher$sources_javadoc_2.11;1.0 compile produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_javadoc_2.11-compile.xml
-[debug] 	report for default#evoucher$sources_javadoc_2.11;1.0 runtime produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_javadoc_2.11-runtime.xml
-[debug] 	report for default#evoucher$sources_javadoc_2.11;1.0 test produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_javadoc_2.11-test.xml
-[debug] 	report for default#evoucher$sources_javadoc_2.11;1.0 provided produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_javadoc_2.11-provided.xml
-[debug] 	report for default#evoucher$sources_javadoc_2.11;1.0 optional produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_javadoc_2.11-optional.xml
-[debug] 	report for default#evoucher$sources_javadoc_2.11;1.0 compile-internal produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_javadoc_2.11-compile-internal.xml
-[debug] 	report for default#evoucher$sources_javadoc_2.11;1.0 runtime-internal produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_javadoc_2.11-runtime-internal.xml
-[debug] 	report for default#evoucher$sources_javadoc_2.11;1.0 test-internal produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_javadoc_2.11-test-internal.xml
-[debug] 	report for default#evoucher$sources_javadoc_2.11;1.0 plugin produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_javadoc_2.11-plugin.xml
-[debug] 	report for default#evoucher$sources_javadoc_2.11;1.0 sources produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_javadoc_2.11-sources.xml
-[debug] 	report for default#evoucher$sources_javadoc_2.11;1.0 docs produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_javadoc_2.11-docs.xml
-[debug] 	report for default#evoucher$sources_javadoc_2.11;1.0 pom produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_javadoc_2.11-pom.xml
-[debug] 	report for default#evoucher$sources_javadoc_2.11;1.0 scala-tool produced in /home/hans/workspace/evoucher/target/resolution-cache/reports/default-evoucher$sources_javadoc_2.11-scala-tool.xml
-[debug] 	resolve done (415ms resolve - 28ms download)
+[debug] 		tried /home/hans/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.3/jars/scala-xml_2.11.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3.jar
+[info] downloading http://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3.jar
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar (3989ms)
+[debug] 	[NOT REQUIRED] io.spray#spray-testkit_2.11;1.3.2!spray-testkit_2.11.jar
+[debug] 		tried /home/hans/.ivy2/local/io.spray/spray-testkit_2.11/1.3.2/srcs/spray-testkit_2.11-sources.jar
+[debug] 		tried /home/hans/.ivy2/local/io.spray/spray-testkit_2.11/1.3.2/docs/spray-testkit_2.11-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/io/spray/spray-testkit_2.11/1.3.2/spray-testkit_2.11-1.3.2-sources.jar
+[info] downloading http://repo1.maven.org/maven2/io/spray/spray-testkit_2.11/1.3.2/spray-testkit_2.11-1.3.2-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-testkit_2.11/1.3.2/spray-testkit_2.11-1.3.2-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-testkit_2.11/1.3.2/spray-testkit_2.11-1.3.2-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/spray/spray-testkit_2.11/1.3.2/spray-testkit_2.11-1.3.2-sources.jar
+[info] 	[SUCCESSFUL ] io.spray#spray-testkit_2.11;1.3.2!spray-testkit_2.11.jar(src) (1395ms)
+[debug] 		tried http://repo1.maven.org/maven2/io/spray/spray-testkit_2.11/1.3.2/spray-testkit_2.11-1.3.2-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/io/spray/spray-testkit_2.11/1.3.2/spray-testkit_2.11-1.3.2-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-testkit_2.11/1.3.2/spray-testkit_2.11-1.3.2-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/spray/spray-testkit_2.11/1.3.2/spray-testkit_2.11-1.3.2-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/spray/spray-testkit_2.11/1.3.2/spray-testkit_2.11-1.3.2-javadoc.jar
+[info] 	[SUCCESSFUL ] io.spray#spray-testkit_2.11;1.3.2!spray-testkit_2.11.jar(doc) (4223ms)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.11;2.3.6!akka-testkit_2.11.jar
+[debug] 		tried /home/hans/.ivy2/local/com.typesafe.akka/akka-testkit_2.11/2.3.6/srcs/akka-testkit_2.11-sources.jar
+[debug] 		tried /home/hans/.ivy2/local/com.typesafe.akka/akka-testkit_2.11/2.3.6/docs/akka-testkit_2.11-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.6/akka-testkit_2.11-2.3.6-sources.jar
+[info] downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.6/akka-testkit_2.11-2.3.6-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.6/akka-testkit_2.11-2.3.6-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.6/akka-testkit_2.11-2.3.6-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.6/akka-testkit_2.11-2.3.6-sources.jar
+[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-testkit_2.11;2.3.6!akka-testkit_2.11.jar(src) (1705ms)
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.6/akka-testkit_2.11-2.3.6-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.6/akka-testkit_2.11-2.3.6-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.6/akka-testkit_2.11-2.3.6-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.6/akka-testkit_2.11-2.3.6-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/2.3.6/akka-testkit_2.11-2.3.6-javadoc.jar
+[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-testkit_2.11;2.3.6!akka-testkit_2.11.jar(doc) (2332ms)
+[debug] 	[NOT REQUIRED] org.specs2#specs2_2.11;2.3.13!specs2_2.11.jar
+[debug] 		tried /home/hans/.ivy2/local/org.specs2/specs2_2.11/2.3.13/srcs/specs2_2.11-sources.jar
+[debug] 		tried /home/hans/.ivy2/local/org.specs2/specs2_2.11/2.3.13/docs/specs2_2.11-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/specs2/specs2_2.11/2.3.13/specs2_2.11-2.3.13-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/specs2/specs2_2.11/2.3.13/specs2_2.11-2.3.13-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/specs2/specs2_2.11/2.3.13/specs2_2.11-2.3.13-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/specs2/specs2_2.11/2.3.13/specs2_2.11-2.3.13-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/specs2/specs2_2.11/2.3.13/specs2_2.11-2.3.13-sources.jar
+[info] 	[SUCCESSFUL ] org.specs2#specs2_2.11;2.3.13!specs2_2.11.jar(src) (4199ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/specs2/specs2_2.11/2.3.13/specs2_2.11-2.3.13-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/specs2/specs2_2.11/2.3.13/specs2_2.11-2.3.13-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/specs2/specs2_2.11/2.3.13/specs2_2.11-2.3.13-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/specs2/specs2_2.11/2.3.13/specs2_2.11-2.3.13-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/specs2/specs2_2.11/2.3.13/specs2_2.11-2.3.13-javadoc.jar
+[info] 	[SUCCESSFUL ] org.specs2#specs2_2.11;2.3.13!specs2_2.11.jar(doc) (22987ms)
+[debug] 		tried /home/hans/.ivy2/local/org.scala-lang/scala-compiler/2.11.1/docs/scala-compiler-javadoc.jar
+[debug] 		tried /home/hans/.ivy2/local/org.scala-lang/scala-compiler/2.11.1/srcs/scala-compiler-sources.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.1!scala-compiler.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1-javadoc.jar
