@@ -3,3 +3,7 @@ exot
 exit
 compile
 run
+val v = new Voucher("hans", "fff")
+import com.hanshesse.evoucher.Voucher
+run
+exit
