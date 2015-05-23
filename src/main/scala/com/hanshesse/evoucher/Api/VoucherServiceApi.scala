@@ -1,6 +1,8 @@
 package com.hanshesse.evoucher.Api
 
 
+import com.hanshesse.evoucher.dao.VoucherDAO
+import com.hanshesse.evoucher.domain.Voucher
 import spray.routing.HttpService
 import spray.http.MediaTypes._
 import scala.slick.driver.MySQLDriver.simple._
@@ -27,7 +29,30 @@ trait VoucherServiceApi extends HttpService {
 
             result.take(1).toString()
             */
-            "Hello, world!"
+            "GET vouchers"
+          }
+        }
+      } ~
+      post {
+        respondWithMediaType(`text/html`) {
+          complete {
+            VoucherDAO.addVoucher(Voucher(None, "abc", Some("123"))).toString()
+          }
+        }
+      }
+    } ~
+    path("vouchers" / Segment) { reference =>
+      get {
+        respondWithMediaType(`text/html`) {
+          complete {
+            "GET vouchers/" + reference
+          }
+        }
+      } ~
+      put {
+        respondWithMediaType(`text/html`) {
+          complete {
+            "PUT vouchers/" + reference
           }
         }
       }

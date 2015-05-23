@@ -8,7 +8,7 @@ import akka.actor.{Props, ActorSystem}
 import akka.io.IO
 import spray.can.Http
 import com.hanshesse.evoucher.config.Configuration
-import com.hanshesse.evoucher.Api.VoucherApiActor
+import com.hanshesse.evoucher.Api.ApiActor
 
 
 object Platform extends App with Configuration {
@@ -16,7 +16,7 @@ object Platform extends App with Configuration {
   implicit val system = ActorSystem("evoucher")
 
   // create and start rest service actor
-  val restService = system.actorOf(Props[VoucherApiActor], "evoucher-api")
+  val restService = system.actorOf(Props[ApiActor], "evoucher-api")
 
   // start HTTP server with rest service actor as a handler
   IO(Http) ! Http.Bind(restService, serviceHost, servicePort)
